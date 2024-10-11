@@ -18,5 +18,5 @@ The objective of this project aims to predict whether a movie will be nominated 
 <h2>Program Walk-Through:</h2>
 
 The project is attached as a PDF file for you to review, explanations are hashtagged in blue: <br/>
-You can [view the PDF file here](Prediction%20with%20Linear%20Regression.pdf).
+You can [view the PDF file here](Movie%20Nominations.pdf).
 <br />
